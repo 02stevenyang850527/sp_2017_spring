@@ -24,3 +24,8 @@ My group members and I design a chess game (Reversi) on the chip.
 
 ### Chip:  
 <img src=https://github.com/02stevenyang850527/sp_2017_spring/blob/master/project_result/chip.jpg alt="chip" width=700 height=400>
+
+### Testing:
+<img src=https://github.com/02stevenyang850527/sp_2017_spring/blob/master/project_result/Testing.JPG alt="chip" width=700 height=400>  
+* Final Result (Display "WIN")  
+<img src=https://github.com/02stevenyang850527/sp_2017_spring/blob/master/project_result/Result.jpg alt="result" width=400 height=400>
